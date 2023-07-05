@@ -1,2 +1,2 @@
 Hello, the world!
-Hi
+Hi!
